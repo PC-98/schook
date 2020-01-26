@@ -1,0 +1,4 @@
+EXPORTS
+DllEntryPoint @1
+SetHookProc @2
+KeyboardProc @3
